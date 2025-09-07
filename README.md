@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce platform built with Next.js 15, featuring a comprehensive product catalog, secure payment processing, and advanced admin management capabilities.
 
-## �� Features
+## Features
 
 ### 🛒 E-commerce Core
 - **Product Catalog**: Browse products across 6 categories (phones, laptops, smartwatches, cameras, headphones, consoles)
@@ -12,7 +12,7 @@ A modern, full-stack e-commerce platform built with Next.js 15, featuring a comp
 - **Favorites System**: Save and manage favorite products
 - **Product Reviews**: User-generated reviews with rating system
 
-### �� Payment & Checkout
+### 💲 Payment & Checkout
 - **Stripe Integration**: Secure payment processing with multiple payment methods
 - **Tax Calculation**: Automatic tax calculation based on location
 - **Shipping Calculator**: Dynamic shipping costs by country and method
